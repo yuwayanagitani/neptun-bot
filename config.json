@@ -1,0 +1,22 @@
+{
+    "neptun": {
+        "user_id": "YOUR_NEPTUN_ID",
+        "password": "YOUR_NEPTUN_PASSWORD",
+        "secret": "YOUR_SECRET_CODE",
+        "target_subject_code": "AOKTLM740_1A",
+        "target_tutors_priority": [
+            "Dr. Margittai Éva",
+            "Dr. Zoltán Tibor Lantos",
+            ""
+        ],
+        "earliest_date": "2026-02-01"
+    },
+    "telegram": {
+        "bot_token": "YOUR_BOT_TOKEN",
+        "chat_id": "YOUR_CHAT_ID"
+    },
+    "monitoring": {
+        "idle_interval_minutes": 5,
+        "session_timeout_minutes": 20
+    }
+}
